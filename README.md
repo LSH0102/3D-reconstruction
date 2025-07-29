@@ -30,3 +30,6 @@ replace the filepath, eg:
 std::string filepath = "../../input/bunny.obj"; 
 ```
 for more obj files, see ./input.
+
+Some results:
+
