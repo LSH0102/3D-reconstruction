@@ -33,3 +33,4 @@ for more obj files, see ./input.
 
 Some results:
 
+![Build Steps](./img/img1.png)
