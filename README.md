@@ -46,6 +46,6 @@ for more obj files, see ./input.
 
 This project uses obj files from the following MIT-licensed repositories:
 
-- [ddg-exercises]([https://github.com/GeometryCollective/ddg-exercises]) - [Original Author's Name] - [Used the obj files in input file]
+- [ddg-exercises](https://github.com/GeometryCollective/ddg-exercises) - [Used the obj files in input file]
 
 
