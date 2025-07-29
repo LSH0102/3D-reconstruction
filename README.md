@@ -1,7 +1,7 @@
 # 3D-reconstruction
 Some algorithms of reconstructing mesh from point cloud
 
-## Referenced Papers
+## References
 - [Poisson surface reconstruction](https://dl.acm.org/doi/10.5555/1281957.1281965)
 - [Variational Implicit Point Set Surfaces](https://dl.acm.org/doi/10.1145/3306346.3322994)
 - [Surface Reconstruction from Point Clouds without Normalsby Parametrizing the Gauss Formula](https://dl.acm.org/doi/10.1145/3554730)
