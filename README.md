@@ -6,6 +6,6 @@ There are 4 dependencies needed: polyscope for visualization, Eigen and nlopt fo
 
 mkdir build and cd build. Then run 
 
-'''bash
+```bash
 cmake ..
-'''
+```
