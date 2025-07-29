@@ -9,3 +9,11 @@ mkdir build and cd build. Then run
 ```bash
 cmake ..
 ```
+```bash
+make
+```
+
+And there will be a CMakeProject1, use the following command to run the experiment:
+```bash
+./CMakeProject1
+```
