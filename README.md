@@ -1,6 +1,11 @@
 # 3D-reconstruction
 Some algorithms of reconstructing mesh from point cloud
 
+## Referenced Papers
+1.Poisson surface reconstruction
+2.Variational Implicit Point Set Surfaces
+3.Surface Reconstruction from Point Clouds without Normalsby Parametrizing the Gauss Formula
+
 The following implementation adopts a more straightforward variant of the algorithm described in the reference paper, consequently exhibiting modest performance degradation relative to the results in papers.
 
 tested on ubuntu 18.04.5
