@@ -12,7 +12,9 @@ tested on ubuntu 18.04.5
 ## Dependencies 
 1. polyscope for visualization https://github.com/ezhangle/polyscope
 2. Eigen and nlopt for matrix manipulation and solving linear equations,
-3. geometry-central https://github.com/nmwsharp/geometry-central 
+3. geometry-central https://github.com/nmwsharp/geometry-central
+
+Download or clone these dependencies to ./deps.
 
 ## run experiments
 mkdir build and cd build. Then run 
