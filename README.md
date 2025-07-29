@@ -42,8 +42,10 @@ for more obj files, see ./input.
 ![Reconstructed Bunny](./img/img2.png)
 ![Reconstructed smallBunny](./img/img3.png)
 
-## Acknowledgments
-- [./input] 来源于 [原作者/仓库名](链接)，遵循 [许可协议名称]。
-- 感谢 [@原作者GitHub账号] 的贡献。
+## Acknowledgements
+
+This project uses obj files from the following MIT-licensed repositories:
+
+- [ddg-exercises]([https://github.com/GeometryCollective/ddg-exercises]) - [Original Author's Name] - [Used the obj files in input file]
 
 
