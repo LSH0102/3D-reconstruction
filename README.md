@@ -27,12 +27,16 @@ std::string filepath = "../../input/double-torus.obj";
 ```
 replace the filepath, eg:
 ```bash
-std::string filepath = "../../input/bunny.obj"; 
+std::string filepath = "../../input/bunny.obj";
 ```
+Then make and run ./CMakeProject1 to see the modified result.
 for more obj files, see ./input.
 
 Some results:
 
 ![Reconstructed Double-Torus](./img/img1.png)
 ![Reconstructed Bunny](./img/img2.png)
+![Reconstructed smallBunny](./img/img3.png)
+
+
 
